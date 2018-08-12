@@ -42,15 +42,15 @@
 
 ## Bibliografia
 
-Computational Physics With Python
-Eric Ayars
-California State University, Chico
-2013
+Computational Physics With Python  
+Eric Ayars  
+California State University, Chico  
+2013  
 
-Numerical Methods in Engineering with Python 3
-Jaan Kiusalaas
-Cambridge University Press
-2013
+Numerical Methods in Engineering with Python 3  
+Jaan Kiusalaas  
+Cambridge University Press  
+2013  
 
 
 
