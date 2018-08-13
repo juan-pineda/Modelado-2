@@ -52,11 +52,11 @@ Jaan Kiusalaas
 Cambridge University Press  
 2013  
 
-Scientific Computing
-An Introductory Survey
-Michael T. Heath
-Mc Graw Hill Higher Education
-2002
+Scientific Computing  
+An Introductory Survey  
+Michael T. Heath  
+Mc Graw Hill Higher Education  
+2002  
 
 
 
