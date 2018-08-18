@@ -1,7 +1,8 @@
 # Modelado-2
 Repositorio de apoyo a la asignatura
 
-Profesor: Juan Carlos Basto Pineda
+Profesor: Juan Carlos Basto Pineda  
+juan.basto.pineda@gmail.com
 
 Universidad Industrial de Santander
 
