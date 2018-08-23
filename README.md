@@ -10,6 +10,12 @@ Universidad Industrial de Santander
 
 # Noticias:
 
+Otra demostración del orden de convergencia del método de la secante:
+<http://www.math.drexel.edu/~tolya/300_secant.pdf>  
+
+Demostración del teorema sobre truncamiento de las series de Taylor: Ver el Zill
+T.9.10.2 (?)
+
 Respecto al primer tema, raíces de funciones, se indica estudiar
 las secciones 2.0 de Ayars y 4.1 a 4.5 de Kiusalaas
 
