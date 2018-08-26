@@ -6,7 +6,7 @@ juan.basto.pineda@gmail.com
 
 Universidad Industrial de Santander
 
-Última actualización: 13 de agosto de 2018
+Última actualización: 26 de agosto de 2018
 
 # Noticias:
 
