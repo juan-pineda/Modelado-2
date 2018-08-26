@@ -10,6 +10,13 @@ Universidad Industrial de Santander
 
 # Noticias:
 
+Este es el artículo de Rajaraman sobre la implementación del formato de punto flotante:  
+<https://www.ias.ac.in/article/fulltext/reso/021/01/0011-0030>   
+
+Y las otras diapositivas que mencioné están aquí:  
+<http://www.sam.math.ethz.ch/~hiptmair/tmp/NumCSE/NumCSE15.pdf>  
+De ahí me gustó la sección 1.5 sobre aritmética comutacional   
+
 Otra demostración del orden de convergencia del método de la secante:
 <http://www.math.drexel.edu/~tolya/300_secant.pdf>  
 
