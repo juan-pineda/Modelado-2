@@ -10,24 +10,10 @@ Universidad Industrial de Santander
 
 # Noticias:
 
-Este es el artículo de Rajaraman sobre la implementación del formato de punto flotante:  
-<https://www.ias.ac.in/article/fulltext/reso/021/01/0011-0030>   
+## Fechas
 
-Y las otras diapositivas que mencioné están aquí:  
-<http://www.sam.math.ethz.ch/~hiptmair/tmp/NumCSE/NumCSE15.pdf>  
-De ahí me gustó la sección 1.5 sobre aritmética computacional   
+Tenemos el primer examen el lunes 10 de Septiembre, de todo lo que alcancemos 
+a ver hasta la clase del lunes 3. 
 
-Otra demostración del orden de convergencia del método de la secante:
-<http://www.math.drexel.edu/~tolya/300_secant.pdf>  
-
-Demostración del teorema sobre truncamiento de las series de Taylor: Ver el Zill
-T.9.10.2 (?)
-
-Respecto al primer tema, raíces de funciones, se indica estudiar
-las secciones 2.0 de Ayars y 4.1 a 4.5 de Kiusalaas
-
-Para entender mejor el concepto de orden de convergencia, los métodos
-de iteración de punto fijo, y preparar el camino al método de Brent-Dekker
-se indica estudiar las secciones desde la 5.4 hasta la 5.5.5 de Heath,
-y la 5.5.7 del mismo libro
+El primer trabajo, sobre raíces de funciones, es para mañana jueves 30 de agosto.  
 
