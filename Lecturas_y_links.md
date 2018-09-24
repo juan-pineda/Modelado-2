@@ -1,5 +1,14 @@
 # Material de estudio sugerido
 
+## Segundo Corte
+
+Sistemas de ecuaciones no lineales: Chapra, Sec. 6.6  
+Matrices _banded_ y Gauss-Seidel: Chapra, Sec. 11.1, 11.2  
+[Variación método de Thomas para matrices tridiagonales](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)  
+
+
+## Primer Corte
+
 Systems of linear equations: Capítulo 2 de Kiusalaas  
 
 Revisar los conceptos de Condicionamiento, Sensitividad y Estabilidad asociados a la

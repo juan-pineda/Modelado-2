@@ -59,4 +59,12 @@ Mc Graw Hill Higher Education
 2002  
 
 
+Numerical Methods for Engineers  
+Sixth Edition  
+Steven Chapra, Raymond Canale  
+Mc Graw Hill  
+2010  
+
+
+
 
