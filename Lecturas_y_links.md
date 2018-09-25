@@ -2,9 +2,13 @@
 
 ## Segundo Corte
 
-Sistemas de ecuaciones no lineales: Chapra, Sec. 6.6  
-Matrices _banded_ y Gauss-Seidel: Chapra, Sec. 11.1, 11.2  
+Para recordar la descomposición LU de Doolittle: Kiusalaas  Sec. 2.3  
+Matrices tridiagonales: Chapra, Sec. 11.1, Kiusalaas Sec 2.4
 [Variación método de Thomas para matrices tridiagonales](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)  
+  
+
+Sistemas de ecuaciones no lineales: Chapra, Sec. 6.6  
+Gauss-Seidel: Chapra, Sec. 11.2  
 
 
 ## Primer Corte
