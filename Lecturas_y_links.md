@@ -10,6 +10,8 @@ Matrices tridiagonales: Chapra, Sec. 11.1, Kiusalaas Sec 2.4
 Sistemas de ecuaciones no lineales: Chapra, Sec. 6.6  
 Gauss-Seidel: Chapra, Sec. 11.2  
 
+[The Supernova Cosmology Project](http://supernova.lbl.gov/Union/)  
+
 
 ## Primer Corte
 
