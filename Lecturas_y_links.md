@@ -2,15 +2,13 @@
 
 ## Segundo Corte
 
-Para recordar la descomposición LU de Doolittle: Kiusalaas  Sec. 2.3  
-Matrices tridiagonales: Chapra, Sec. 11.1, Kiusalaas Sec 2.4
-[Variación método de Thomas para matrices tridiagonales](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)  
-  
+Descomposición LU: Kiusalaas  Sec. 2.3 
+Matrices tridiagonales: Chapra Sec. 11.1, Kiusalaas Sec. 2.4 (solo el comienzo),
+ [Y el algoritmo en este link de wikipedia](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)  
+Sistemas de ecuaciones no lineales (iteración de punto fijo y método de Newton): Chapra, Sec. 6.6  
+Métodos iterativos para sistemas de ec. lineales (Gauss-Seidel y Jacobi): Chapra, Sec. 11.2  
+Interpolación y ajuste por mínimos cuadrados: Kiusalaas Cap. 3  
 
-Sistemas de ecuaciones no lineales: Chapra, Sec. 6.6  
-Gauss-Seidel: Chapra, Sec. 11.2  
-
-[The Supernova Cosmology Project](http://supernova.lbl.gov/Union/)  
 
 
 ## Primer Corte
