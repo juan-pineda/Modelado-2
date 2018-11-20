@@ -2,7 +2,7 @@
 
 ## Segundo Corte
 
-Descomposición LU: Kiusalaas  Sec. 2.3 
+Descomposición LU: Kiusalaas  Sec. 2.3  
 Matrices tridiagonales: Chapra Sec. 11.1, Kiusalaas Sec. 2.4 (solo el comienzo),
  [Y el algoritmo en este link de wikipedia](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)  
 Sistemas de ecuaciones no lineales (iteración de punto fijo y método de Newton): Chapra, Sec. 6.6  
