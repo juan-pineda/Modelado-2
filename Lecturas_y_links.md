@@ -2,13 +2,9 @@
 
 ## Segundo Corte
 
-Descomposición LU: Kiusalaas  Sec. 2.3  
-Matrices tridiagonales: Chapra Sec. 11.1, Kiusalaas Sec. 2.4 (solo el comienzo),
- [Y el algoritmo en este link de wikipedia](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)  
-Sistemas de ecuaciones no lineales (iteración de punto fijo y método de Newton): Chapra, Sec. 6.6  
-Métodos iterativos para sistemas de ec. lineales (Gauss-Seidel y Jacobi): Chapra, Sec. 11.2  
-Interpolación y ajuste por mínimos cuadrados: Kiusalaas Cap. 3  
-
+Kiusalaas: Capítulo 2, desde el inicio hasta la parte de matrices tri-diagonales 
+Kiusalaas: Capítulo 3, secciones de interpolación de Lagrange y cubic spline, y discusiones generales sobre los métodos de interpolación   
+Chapra: Secciones 6.6, 9.6, 11.1, 11.2
 
 
 ## Primer Corte
